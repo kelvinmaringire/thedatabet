@@ -1,0 +1,344 @@
+{
+    "England": {
+        "Premier League": {"betway": "5546c4d7-d816-e811-80cd-00155d4cf19b", "forebet": 1},
+        "Championship":  {"betway":  "8e239cd3-d716-e811-80cd-00155d4cf19b", "forebet": 2},
+        "League One": {"betway":  "d7c74297-d616-e811-80cd-00155d4cf19b", "forebet": 3},
+        "League Two": {"betway":  "15230075-d616-e811-80cd-00155d4cf19b", "forebet": 4},
+        "National League": {"betway":  "2ead1689-d816-e811-80cd-00155d4cf19b", "forebet": 61},
+        "EFL Cup": {"betway":  "69721e2f-d816-e811-80cd-00155d4cf19b", "forebet": 481}
+    },
+    "Spain": {
+        "La liga": {"betway": "c97c77e3-d516-e811-80cd-00155d4cf19b", "forebet": 5},
+        "LaLiga 2":  {"betway":  "9fa34bf0-d516-e811-80cd-00155d4cf19b", "forebet": 23},
+        "Copa del Rey": {"betway": "5057066e-d516-e811-80cd-00155d4cf19b", "forebet": 209},
+        "Super Cup": {"betway":  "f2913121-f887-e811-80d5-00155d4a2d29", "forebet": 292}
+    },
+    "Germany": {
+        "Bundesliga": {"betway": "fe09e7a9-d516-e811-80cd-00155d4cf19b", "forebet": 7},
+        "2nd Bundesliga":  {"betway":  "ac7015b0-d516-e811-80cd-00155d4cf19b", "forebet": 15},
+        "3rd Liga": {"betway":  "bb7f3fb6-d516-e811-80cd-00155d4cf19b", "forebet": 137},
+        "DFB Pokal": {"betway": "de2a18d1-d816-e811-80cd-00155d4cf19b", "forebet": 210}
+    },
+    "Italy": {
+        "Serie A": {"betway": "935c8470-d916-e811-80cd-00155d4cf19b", "forebet": 6},
+        "Serie B":  {"betway":  "4babc469-d916-e811-80cd-00155d4cf19b", "forebet": 22},
+        "Coppa Italia": {"betway":  "56d46828-d616-e811-80cd-00155d4cf19b", "forebet": 215}
+    },
+    "France": {
+        "Ligue 1": {"betway": "10ee1d29-d816-e811-80cd-00155d4cf19b", "forebet": 8},
+        "Ligue 2":  {"betway":  "f75e7795-d516-e811-80cd-00155d4cf19b", "forebet": 18},
+        "National": {"betway": "d9849567-d516-e811-80cd-00155d4cf19b", "forebet": 138},
+        "Coupe de France": {"betway": "666f7795-d516-e811-80cd-00155d4cf19b", "forebet": 222}
+    },
+  "South Africa": {
+    "Nedbank Cup": {"betway": "3df68c6e-b919-e811-80d5-00155d4cf18c", "forebet": 471},
+    "National First Division":  {"betway":  "b3a6d57c-b717-e811-80cd-00155d4cf19b", "forebet": 449},
+    "Betway Premiership": {"betway": "a0fef402-d616-e811-80cd-00155d4cf19b", "forebet": 38}
+  },
+    "International Clubs": {
+        "UEFA Champions League": {"betway": "e05c066e-d516-e811-80cd-00155d4cf19b", "forebet": 13},
+        "UEFA Europa League":  {"betway":  "b8ea4183-d916-e811-80cd-00155d4cf19b", "forebet": 14},
+        "UEFA Europa Conference League": {"betway":  "000086b0-0000-0000-0000-000000000000", "forebet": 571},
+        "Copa Libertadores": {"betway": "e2517a8f-d516-e811-80cd-00155d4cf19b", "forebet": 249},
+        "CONCACAF Champions League": {"betway": "a0e0e5e4-de16-e811-80d5-00155d4cf18c", "forebet": 281}
+    },
+  "Portugal": {
+    "Primeira Liga": {"betway": "387d7db8-d616-e811-80cd-00155d4cf19b", "forebet": 26},
+    "Sengunda Liga": {"betway": "8671f248-d516-e811-80cd-00155d4cf19b", "forebet": 67},
+    "Taca de Portugal": {"betway": "14325ba3-d916-e811-80cd-00155d4cf19b", "forebet": 333}
+  },
+  "Netherlands": {
+    "Eredivisie": {"betway": "44badc34-d616-e811-80cd-00155d4cf19b", "forebet": 16},
+    "Eerste Divisie": {"betway": "c0fbcd21-d616-e811-80cd-00155d4cf19b", "forebet": 17},
+    "KNVB beker": {"betway": "ade84183-d916-e811-80cd-00155d4cf19b", "forebet": 216}
+  },
+  "Turkey": {
+    "Super Lig": {"betway": "879961c5-d616-e811-80cd-00155d4cf19b", "forebet": 9},
+    "1 Lig": {"betway": "9b59066e-d516-e811-80cd-00155d4cf19b", "forebet": 136}
+  },
+  "USA": {
+    "Major Soccer League": {"betway": "2b8adf79-4117-e811-80d5-00155d4cf18c", "forebet": 55},
+    "USL Championship": {"betway": "00006e03-0000-0000-0000-000000000000", "forebet": 245}
+  },
+  "Algeria": {
+    "Ligue 1": {"betway": "82cfae10-0617-e811-80d5-00155d4cf18c", "forebet": 105},
+    "Ligue 2": {"betway": "e459b365-5b17-e811-80cd-00155d4cf19b", "forebet": 254}
+  },
+  "Argentina": {
+    "Primera Division": {"betway": "cb6b4783-d516-e811-80cd-00155d4cf19b", "forebet": 19},
+    "Copa Argentina": {"betway": "ad6ccf7f-f850-e811-80d9-00155d8349c2", "forebet": 478},
+    "Liga Profesional, Reserves": {"betway": "00009051-0000-0000-0000-000000000000", "forebet": 701},
+    "Primera B Nacional": {"betway": "a8e306fb-4217-e811-80d5-00155d4cf18c", "forebet": 110}
+  },
+  "Austria": {
+    "Bundesliga": {"betway": "9e5def7b-d616-e811-80cd-00155d4cf19b", "forebet": 27},
+    "Erste Liga": {"betway": "426d77e3-d516-e811-80cd-00155d4cf19b", "forebet": 95}
+  },
+  "Azerbaijan": {
+    "First Division": {"betway": "b4603148-bd17-e811-80d5-00155d4cf18c", "forebet": 400}
+  },
+  "Bahrain": {
+    "King of Barhrain Cup": {"betway": "0000099e-0000-0000-0000-000000000000", "forebet": 485}
+  },
+  "Belgium": {
+    "First Division A": {"betway": "66464c74-d516-e811-80cd-00155d4cf19b", "forebet": 28},
+    "First Division B": {"betway": "9503ed63-d816-e811-80cd-00155d4cf19b", "forebet": 96},
+    "Beker van Belgie": {"betway": "908e30d1-801c-e811-80cd-00155d4cf19b", "forebet": 305}
+  },
+  "Bolivia": {
+    "Division Profesional": {"betway": "000084bc-0000-0000-0000-000000000000", "forebet": 111}
+  },
+  "Bosnia Herzergovina": {
+    "Prva Liga, Rep of Srpska": {"betway": "071a1de2-132d-e811-80d8-00155d2f9ee6", "forebet": 263}
+  },
+  "Brazil": {
+    "Seria A": {"betway": "f10df326-e426-e811-80d6-00155d4cf18c", "forebet": 20},
+    "Seria B": {"betway": "eb70680e-e426-e811-80d6-00155d4cf18c", "forebet": 134},
+    "Seria C": {"betway": "17ad5af1-6b3a-e811-80d8-00155d2f9ee6", "forebet": 185},
+    "Campeonato Brasileiro, Women": {"betway": "8aca4cb5-4940-e811-80d8-00155d2f9ee6", "forebet": 622},
+    "Campeonato Maranhense": {"betway": "a17ae23c-5837-e811-80d8-00155d2f9ee6", "forebet": 464},
+    "Copa Verde": {"betway": "6946c4d7-d816-e811-80cd-00155d4cf19b", "forebet": 611},
+    "Paulista, Sirie A3": {"betway": "35f9ea81-d616-e811-80cd-00155d4cf19b", "forebet": 599}
+  },
+  "Bulgaria": {
+    "First Professional League": {"betway": "c608e8fc-d516-e811-80cd-00155d4cf19b", "forebet": 30},
+    "Bulgarian Cup": {"betway": "ea188542-c51b-e811-80d5-00155d4cf18c", "forebet": 307}
+  },
+  "Canada": {
+    "Canadian Premiere League": {"betway": "00006f10-0000-0000-0000-000000000000", "forebet": 477}
+  },
+  "Chile": {
+    "Primera Division": {"betway": "00006c11-0000-0000-0000-000000000000", "forebet": 122},
+    "Primera B": {"betway": "a82bee14-de17-e811-80d5-00155d4cf18c", "forebet": 225}
+  },
+  "China": {
+    "Chinese Super League": {"betway": "b12e1d81-d91b-e811-80d5-00155d4cf18c", "forebet": 123}
+  },
+  "Colombia": {
+    "Primera A, Apertura": {"betway": "000069be-0000-0000-0000-000000000000", "forebet": 127},
+    "Primera B": {"betway": "6db99921-b717-e811-80d5-00155d4cf18c", "forebet": 161}
+  },
+  "Costa Rica": {
+    "Primera Division, Clausura": {"betway": "000069d6-0000-0000-0000-000000000000", "forebet": 118}
+  },
+  "Croatia": {
+    "HNL": {"betway": "5b165161-d516-e811-80cd-00155d4cf19b", "forebet": 48}
+  },
+  "Cyprus": {
+    "1st Division": {"betway": "11c8b8b5-d916-e811-80cd-00155d4cf19b", "forebet": 43}
+  },
+  "Czech Republic": {
+    "Liga": {"betway": "5d724783-d516-e811-80cd-00155d4cf19b", "forebet": 51},
+    "FNL": {"betway": "29ad7a89-d516-e811-80cd-00155d4cf19b", "forebet": 99},
+    "Cup": {"betway": "9c579fa5-d816-e811-80cd-00155d4cf19b", "forebet": 310}
+  },
+  "Denmark": {
+    "1st Division": {"betway": "f37215b0-d516-e811-80cd-00155d4cf19b", "forebet": 100},
+    "Superligaen": {"betway": "91e13b12-d716-e811-80cd-00155d4cf19b", "forebet": 29}
+  },
+  "Ecuador": {
+    "Seria A": {"betway": "de11b68c-f817-e811-80cd-00155d4cf19b", "forebet": 144},
+    "Seria B": {"betway": "e681e7d7-0918-e811-80d5-00155d4cf18c", "forebet": 374}
+  },
+  "Egypt": {
+    "Premier League": {"betway": "c9856e0f-d616-e811-80cd-00155d4cf19b", "forebet": 130},
+    "2nd Division": {"betway": "4e43575d-b022-e811-80d6-00155d4cf18c", "forebet": 570}
+  },
+  "El Salvador": {
+    "Primera Division, Clausura": {"betway": "000069d2-0000-0000-0000-000000000000", "forebet": 145}
+  },
+  "Estonia": {
+    "Esiliiga": {"betway": "4c672e71-781c-e811-80cd-00155d4cf19b", "forebet": 156},
+    "Premium Liiga": {"betway": "a06d6ff5-0d17-e811-80d5-00155d4cf18c", "forebet": 53}
+  },
+  "Ethiopia": {
+    "Premier League": {"betway": "00008378-0000-0000-0000-000000000000", "forebet": 395}
+  },
+  "Finland": {
+    "Veikkausliiga": {"betway": "2919f212-2c1a-e811-80d5-00155d4cf18c", "forebet": 54}
+  },
+  "Georgia": {
+    "National League": {"betway": "dcce390a-c817-e811-80d5-00155d4cf18c", "forebet": 116}
+  },
+  "Greece": {
+    "Super League": {"betway": "3377c5c6-d716-e811-80cd-00155d4cf19b", "forebet": 35},
+    "Greece Cup": {"betway": "637e6e0f-d616-e811-80cd-00155d4cf19b", "forebet": 316},
+    "Football League": {"betway": "91eba4af-d916-e811-80cd-00155d4cf19b", "forebet": 298}
+  },
+  "Guatemala": {
+    "Liga Nacional, Clausura": {"betway": "00006b06-0000-0000-0000-000000000000", "forebet": 142}
+  },
+  "Hong Kong": {
+    "Premier League": {"betway": "30a61036-8d18-e811-80cd-00155d4cf19b", "forebet": 220}
+  },
+  "Hungry": {
+    "NB I": {"betway": "504a8ff2-d816-e811-80cd-00155d4cf19b", "forebet": 36}
+  },
+  "Iceland": {
+    "Bikarinn": {"betway": "5f48a279-b63b-e811-80d8-00155d2f9ee6", "forebet": 318},
+    "Urvalsdeild": {"betway": "04a3e6b4-5542-e811-80d8-00155d2f9ee6", "forebet": 58}
+  },
+  "India": {
+    "Indian Super League": {"betway": "0e03059f-d816-e811-80cd-00155d4cf19b", "forebet": 211}
+  },
+  "Indonesia": {
+    "Liga 1": {"betway": "4cc27688-192c-e811-80d8-00155d2f9ee6", "forebet": 32}
+  },
+  "Iran": {
+    "Pro League": {"betway": "50ade5d6-0817-e811-80cd-00155d4cf19b", "forebet": 147}
+  },
+  "Iraq": {
+    "Iragi League": {"betway": "0000695e-0000-0000-0000-000000000000", "forebet": 288}
+  },
+  "Ireland": {
+    "Premier Division": {"betway": "ce6e612e-d616-e811-80cd-00155d4cf19b", "forebet": 34},
+    "First Division": {"betway": "ecdf6c72-2817-e811-80cd-00155d4cf19b", "forebet": 131}
+  },
+  "Israel": {
+    "Premier League": {"betway": "3c796898-d117-e811-80cd-00155d4cf19b", "forebet": 42},
+    "National League": {"betway": "37063260-ef16-e811-80cd-00155d4cf19b", "forebet": 212},
+    "Israel Cup": {"betway": "7f397f99-4719-e811-80d5-00155d4cf18c", "forebet": 437}
+  },
+  "Japan": {
+    "J League": {"betway": "562ff70b-d716-e811-80cd-00155d4cf19b", "forebet": 21},
+    "J League 2": {"betway": "22ca4297-d616-e811-80cd-00155d4cf19b", "forebet": 113},
+    "J League 3": {"betway": "30445c85-d122-e811-80ce-00155d4cf19b", "forebet": 410}
+  },
+  "Kosovo": {
+    "FA Cup": {"betway": "8d21a773-f31e-e811-80d6-00155d4cf18c", "forebet": 435}
+  },
+  "Kuwait": {
+    "Emir Cup": {"betway": "00006439-0000-0000-0000-000000000000", "forebet": 482}
+  },
+  "Latvia": {
+    "Virsliga": {"betway": "8fa4fe44-872b-e811-80d8-00155d2f9ee6", "forebet": 119}
+  },
+  "Lithuania": {
+    "A Lyga": {"betway": "32e3b523-1017-e811-80d5-00155d4cf18c", "forebet": 120}
+  },
+  "Malta": {
+    "Premier League": {"betway": "bb57db9a-c417-e811-80cd-00155d4cf19b", "forebet": 159}
+  },
+  "Mexico": {
+    "Primera Division, Clausura": {"betway": "00006b4a-0000-0000-0000-000000000000", "forebet": 68},
+    "Liga de Ascenso, Clausura": {"betway": "00006af8-0000-0000-0000-000000000000", "forebet": 129}
+  },
+  "Montenegro": {
+    "CFL": {"betway": "1ccb3c2f-fc17-e811-80cd-00155d4cf19b", "forebet": 101}
+  },
+  "Morocco": {
+    "Botola": {"betway": "d23b450a-3d17-e811-80d5-00155d4cf18c", "forebet": 102}
+  },
+  "New Zealand": {
+    "Premiership": {"betway": "4d6b8eea-4417-e811-80cd-00155d4cf19b", "forebet": 581}
+  },
+  "Northern Ireland": {
+    "IFA Championship": {"betway": "7730523f-3a1d-e811-80d5-00155d4cf18c", "forebet": 243},
+    "JJB Sports Premiership": {"betway": "3f7fd6ea-e916-e811-80cd-00155d4cf19b", "forebet": 168}
+  },
+  "Norway": {
+    "Eliteserien": {"betway": "ddc51472-d318-e811-80cd-00155d4cf19b", "forebet": 12},
+    "NM Cup": {"betway": "0b84f954-b940-e811-80d8-00155d2f9ee6", "forebet": 331}
+  },
+  "Oman": {
+    "Omani League": {"betway": "e4536593-6a19-e811-80cd-00155d4cf19b", "forebet": 231}
+  },
+  "Panama": {
+    "Liga Panamena de Futbol, Apertura": {"betway": "000069de-0000-0000-0000-000000000000", "forebet": 219}
+  },
+  "Paraguay": {
+    "Primera Division, Apertura": {"betway": "000069da-0000-0000-0000-000000000000", "forebet": 148},
+    "Sengunda Division": {"betway": "70a1b6fe-f129-e811-80d6-00155d4cf18c", "forebet": 258}
+  },
+  "Peru": {
+    "Primera Division": {"betway": "c0582013-d816-e811-80cd-00155d4cf19b", "forebet": 139}
+  },
+  "Poland": {
+    "Ekstraklasa": {"betway": "0a330cda-d616-e811-80cd-00155d4cf19b", "forebet": 25},
+    "I Liga": {"betway": "7d2dc95b-f01a-e811-80cd-00155d4cf19b", "forebet": 98},
+    "II Liga": {"betway": "c47f62ec-d918-e811-80d5-00155d4cf18c", "forebet": 229},
+    "III Liga, Group 2": {"betway": "000064ed-0000-0000-0000-000000000000", "forebet": 787}
+  },
+  "Qatar": {
+    "Stars League": {"betway": "c13773a3-d516-e811-80cd-00155d4cf19b", "forebet": 197}
+  },
+  "Republic of Korea": {
+    "K League Challenge": {"betway": "e1cc85bf-1d1d-e811-80cd-00155d4cf19b", "forebet": 182},
+    "K League Classic": {"betway": "39576db8-4217-e811-80cd-00155d4cf19b", "forebet": 128}
+  },
+  "Romania": {
+    "Liga 1": {"betway": "67b7ed34-d716-e811-80cd-00155d4cf19b", "forebet": 40},
+    "Liga 2": {"betway": "33e210b1-3b17-e811-80cd-00155d4cf19b", "forebet": 242},
+    "Romania Cup": {"betway": "a5eda4af-d916-e811-80cd-00155d4cf19b", "forebet": 334}
+  },
+  "Saudi Arabia": {
+    "Saudi Prof League": {"betway": "23fc049f-d816-e811-80cd-00155d4cf19b", "forebet": 149}
+  },
+  "Scotland": {
+      "Premiership": {"betway": "9d7c15b0-d516-e811-80cd-00155d4cf19b", "forebet": 24},
+      "Championship": {"betway": "6aed4183-d916-e811-80cd-00155d4cf19b", "forebet": 64},
+      "League One": {"betway": "d8cb6828-d616-e811-80cd-00155d4cf19b", "forebet": 108},
+      "League Two": {"betway": "7a617795-d516-e811-80cd-00155d4cf19b", "forebet": 109}
+  },
+  "Senegal": {
+    "Premier League": {"betway": "42780c12-1b1a-e811-80cd-00155d4cf19b", "forebet": 239}
+  },
+  "Serbia": {
+    "Superliga": {"betway": "26ebcc11-3617-e811-80cd-00155d4cf19b", "forebet": 50},
+    "Prva Liga": {"betway": "02466c64-7923-e811-80ce-00155d4cf19b", "forebet": 191}
+  },
+  "Singapore": {
+    "S League": {"betway": "c407f6f9-d22c-e811-80d8-00155d2f9ee6", "forebet": 33}
+  },
+  "Slovakia": {
+    "Superliga": {"betway": "c621cc51-d616-e811-80cd-00155d4cf19b", "forebet": 91},
+    "2 Liga": {"betway": "6c428b52-e11a-e811-80d5-00155d4cf18c", "forebet": 241}
+  },
+  "Slovenia": {
+    "Prva Liga": {"betway": "1af64461-f816-e811-80d5-00155d4cf18c", "forebet": 52},
+    "2nd Liga": {"betway": "61f29c53-8222-e811-80d6-00155d4cf18c", "forebet": 194}
+  },
+  "Sweden": {
+    "Allsvenskan": {"betway": "ffe20187-7c17-e811-80d5-00155d4cf18c", "forebet": 11},
+    "Div 1, Norra": {"betway": "81fd70c7-d838-e811-80cf-00155d2f9ee1", "forebet": 183},
+    "Div 1, Sodra": {"betway": "d7594731-df38-e811-80cf-00155d2f9ee1", "forebet": 184}
+  },
+  "Switzerland": {
+    "Super League": {"betway": "80c41535-d816-e811-80cd-00155d4cf19b", "forebet": 47},
+    "Challenge League": {"betway": "d38d9ed6-d516-e811-80cd-00155d4cf19b", "forebet": 97}
+  },
+  "Thailand": {
+    "Premier League": {"betway": "955ca15c-d916-e811-80cd-00155d4cf19b", "forebet": 125}
+  },
+  "Trinidad & Tobago": {
+    "Pro League": {"betway": "00004b34-0000-0000-0000-000000000000", "forebet": 391}
+  },
+  "Ukraine": {
+    "Premier League": {"betway": "dd35a9e5-d816-e811-80cd-00155d4cf19b", "forebet": 37},
+    "Persha League": {"betway": "9c06ee6c-d126-e811-80d6-00155d4cf18c", "forebet": 151},
+    "Ukraine Cup": {"betway": "343a6012-3821-e811-80d6-00155d4cf18c", "forebet": 441}
+  },
+  "United Arab Emirates": {
+    "Division 1": {"betway": "19e08c2a-292e-e811-80d8-00155d2f9ee6", "forebet": 764},
+    "Arabian Gulf League": {"betway": "5f9f4bf0-d516-e811-80cd-00155d4cf19b", "forebet": 198}
+  },
+  "Uruguay": {
+    "Primera Division": {"betway": "bb71879b-d516-e811-80cd-00155d4cf19b", "forebet": 124},
+    "Sengunda Division": {"betway": "9c15abc5-891e-e811-80ce-00155d4cf19b", "forebet": 246}
+  },
+  "Uzbekistan": {
+    "PFL": {"betway": "6f7add23-a61c-e811-80cd-00155d4cf19b", "forebet": 157}
+  },
+  "Venezuela": {
+    "Sengunda Division": {"betway": "556acb18-8317-e811-80d5-00155d4cf18c", "forebet": 377}
+  },
+  "Vietnam": {
+    "V League": {"betway": "df163105-b018-e811-80d5-00155d4cf18c", "forebet": 114}
+  },
+  "Wales": {
+    "Premier League": {"betway": "5c1c71da-bd17-e811-80d5-00155d4cf18c", "forebet": 65}
+  },
+  "Zimbabwe": {
+    "Premier Soccer League": {"betway": "bb5e4b25-a82a-e811-80ce-00155d4cf19b", "forebet": 387}
+  }
+}

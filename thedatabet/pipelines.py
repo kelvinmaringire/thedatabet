@@ -11,7 +11,10 @@ class SupabasePipeline:
         # Separate buffers for each spider
         self.data_by_spider = {
             "betway": [],
-            "sportsmole": []
+            "sportsmole": [],
+            "forebet": [],
+            "footballtips": [],
+            "previews": []
         }
 
     def process_item(self, item, spider):

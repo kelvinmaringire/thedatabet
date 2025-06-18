@@ -1,5 +1,6 @@
 import re
 import scrapy
+from datetime import datetime, timedelta
 
 
 class SportsmoleSpider(scrapy.Spider):
@@ -28,6 +29,16 @@ class SportsmoleSpider(scrapy.Spider):
     def parse_event(self, response):
 
         match_time = response.css('span[itemprop="startDate"]::attr(datetime)').get()
+
+        # ====== Added Filtering Logic Here ======
+        if match_time:
+            match_date = datetime.fromisoformat(match_time).date()
+            today = datetime.now().date()
+            next_day = today + timedelta(days=1)
+            if match_date != next_day:
+                return  # Skip this match
+        # =========================================
+
         league_name = response.css('div.w320.mAuto div:first-child::text').get().split("|")[0].strip()
         data_analysis_url = response.urljoin(
             response.xpath(

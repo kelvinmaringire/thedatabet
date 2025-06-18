@@ -249,7 +249,7 @@ class BetwaySpider(scrapy.Spider):
 
         yield {
             'country_code': country_code,
-            'league': league,
+            'betway_league': league,
             'date': date,
             'time': time,
             'host_name': host_name,
